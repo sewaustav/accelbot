@@ -1,0 +1,5 @@
+host = "ec2-52-208-254-158.eu-west-1.compute.amazonaws.com"
+user = "rugstctedwfseq"
+password = "cac2ffb13da5de3715b91ba0f5c21f923196c936b7acefc5fbb66d1a444f8ad3"
+db_name = "davht0v6pt8vv1"
+TOKENN = "5030661359:AAE1cLyyDTE1JUVZ7gddhXA5YGImnOQVjB4"
